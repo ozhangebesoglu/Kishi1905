@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kishi1905
+- 👋 Hi, I’m Özhan Gebeşoğlu
 - 👀 I’m interested in software,program,web design
 - 🌱 I’m currently learning python,html,css,java script,photoshop,cinema 4d
 - 💞️ I’m looking to collaborate on web design,programing
