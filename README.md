@@ -1,6 +1,6 @@
 👋 Hi there! I'm Özhan Gebeşoğlu.
 
-🎓 I'm a second-year student in the Information Systems and Technologies department at Mersin University. I'm constantly striving to improve myself in the world of technology and software by learning new things and working on various projects.
+🎓 I'm a third-year student in the Information Systems and Technologies department at Mersin University. I'm constantly striving to improve myself in the world of technology and software by learning new things and working on various projects.
 
 💻 Technologies & Languages: Python, JavaScript, HTML, CSS. I'm on my way to becoming a Full Stack Developer and aspire to develop AI projects.
 
